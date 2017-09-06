@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$USER_HOME$/Documents/大数据" vcs="Git" />
     <mapping directory="$USER_HOME$/Documents/大数据/Level 2 建模数据分析师/python基础/3.Lambda表达式、装饰器和Python模块化开发/02.课程代码/func" vcs="Git" />
   </component>
 </project>
